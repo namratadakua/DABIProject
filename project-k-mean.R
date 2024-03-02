@@ -70,9 +70,9 @@ transactions_by_person_event$Cluster <- as.factor(kmeans_model$cluster)
 print(head(standardized_txn_data))
 
 # Visualize the clusters in a scatter plot
-fviz_cluster(kmeans_model, data = standardized_txn_data, geom = "point", ellipse = "norm")
+fviz_cluster(kmeans_model, data = standardized_txn_data, geom = "point", ellipse.type = "norm")
 
-fviz_cluster(kmeans_model, data = standardized_txn_data,  ellipse = "norm") 
+fviz_cluster(kmeans_model, data = standardized_txn_data,  ellipse.type = "norm") 
 transactions_by_person_event <- transactions_by_person_event[, -which(names(transactions_by_person_event) == "profile_number")]
 # Display summary statistics for each cluster
 cluster_summary <- transactions_by_person_event %>%
