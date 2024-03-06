@@ -1,0 +1,43 @@
+"x"
+"<table class=""table"" style=""width: auto !important; margin-left: auto; margin-right: auto;"">
+<caption>RFM Summary Statistics for Each Cluster for age 118 profiles</caption>
+ <thead>
+  <tr>
+   <th style=""text-align:left;""> Cluster </th>
+   <th style=""text-align:right;""> Avg_Recency </th>
+   <th style=""text-align:right;""> Avg_Frequency </th>
+   <th style=""text-align:right;""> Avg_Monetary </th>
+   <th style=""text-align:right;""> Count </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style=""text-align:left;""> 1 </td>
+   <td style=""text-align:right;""> 537.9276 </td>
+   <td style=""text-align:right;""> 1.000000 </td>
+   <td style=""text-align:right;""> 8.424123 </td>
+   <td style=""text-align:right;""> 359 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> 2 </td>
+   <td style=""text-align:right;""> 190.3652 </td>
+   <td style=""text-align:right;""> 1.067416 </td>
+   <td style=""text-align:right;""> 8.569719 </td>
+   <td style=""text-align:right;""> 178 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> 3 </td>
+   <td style=""text-align:right;""> 470.6191 </td>
+   <td style=""text-align:right;""> 2.337778 </td>
+   <td style=""text-align:right;""> 16.939111 </td>
+   <td style=""text-align:right;""> 225 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> 4 </td>
+   <td style=""text-align:right;""> 436.2115 </td>
+   <td style=""text-align:right;""> 2.307692 </td>
+   <td style=""text-align:right;""> 145.528077 </td>
+   <td style=""text-align:right;""> 26 </td>
+  </tr>
+</tbody>
+</table>"

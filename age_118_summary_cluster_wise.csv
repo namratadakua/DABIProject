@@ -1,0 +1,38 @@
+"x"
+"<table class=""table"" style=""width: auto !important; margin-left: auto; margin-right: auto;"">
+<caption>Summary Statistics for Each Cluster</caption>
+ <thead>
+  <tr>
+   <th style=""text-align:right;""> cluster </th>
+   <th style=""text-align:right;""> avg_spent_amount </th>
+   <th style=""text-align:right;""> avg_reward_paid </th>
+   <th style=""text-align:right;""> avg_time </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style=""text-align:right;""> 1 </td>
+   <td style=""text-align:right;""> 10.859947 </td>
+   <td style=""text-align:right;""> 3.521053 </td>
+   <td style=""text-align:right;""> 463.8632 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:right;""> 2 </td>
+   <td style=""text-align:right;""> 11.162292 </td>
+   <td style=""text-align:right;""> 3.760417 </td>
+   <td style=""text-align:right;""> 452.8750 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:right;""> 3 </td>
+   <td style=""text-align:right;""> 11.395243 </td>
+   <td style=""text-align:right;""> 3.562162 </td>
+   <td style=""text-align:right;""> 434.5784 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:right;""> 4 </td>
+   <td style=""text-align:right;""> 9.234599 </td>
+   <td style=""text-align:right;""> 3.710801 </td>
+   <td style=""text-align:right;""> 426.7108 </td>
+  </tr>
+</tbody>
+</table>"
